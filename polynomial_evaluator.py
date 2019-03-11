@@ -1,5 +1,0 @@
-x = int(input())
-polynomial = input()
-print('f(x) = ' + polynomial)
-print()
-print(f'f({str(x)}) = ' + str(eval(polynomial)))
